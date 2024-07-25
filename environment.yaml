@@ -1,0 +1,5 @@
+name: jupyterlab
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\vtran7\AppData\Local\miniconda3\envs\jupyterlab
